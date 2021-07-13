@@ -1,3 +1,3 @@
 # python-challenge
 
-Code is loaded in the instructions/resource folders for PyBank and PyPoll using Jupyter Notebook
+Code is loaded in the instructions/PyBank/resource and instructions/PyPoll/resource folders using Jupyter Notebook
