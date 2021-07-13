@@ -1,4 +1,3 @@
 # python-challenge
 
-The code is not complete as I could not get it all to run; planning on getting additional help and submitting for regrade as I understand python more.
-Some code is commented for parts that are not complete
+Code is loaded in the resource folders for PyBank and PyPoll using Jupyter Notebook
